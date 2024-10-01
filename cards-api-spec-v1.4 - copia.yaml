@@ -8,6 +8,7 @@ info:
     customers make. These components can be implemented modularly. For example,
     an issuer may want to only employ NovoPayment’s Switch, while another uses
     only Issuing capabilities and handles transaction authorization in-house.
+    modificaddo
 
 
     To get started with Card Issuing, Switching, and Transaction Processing, an issuer needs to determine two things:
