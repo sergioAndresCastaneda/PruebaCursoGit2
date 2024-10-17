@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 linea 1.1.3
+=======
+linea 1.1.2
+>>>>>>> nuevo_cambio2
